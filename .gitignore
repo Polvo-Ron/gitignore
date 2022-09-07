@@ -1,6 +1,6 @@
 #You can put comments in ignore file
 # Ignore single file
-new-file.txt
+another-file.txt
 
 #Ignore all files in the bin directory
 bin/
